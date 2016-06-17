@@ -1,6 +1,6 @@
 # viewport_checker
 
-A library who check if element from page is in viewport.
+A library for Dart who check if elements from page are in viewport.
 
 ## Simple Usage
 ```dart

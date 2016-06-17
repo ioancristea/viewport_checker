@@ -1,6 +1,6 @@
 name: viewport_checker
 description: A library who check if element from page is in viewport.
-version: 0.0.1
+version: 0.0.2
 author: Ioan Cristea <ioan.cristea@krioft.com>
 homepage: https://www.krioft.com
 

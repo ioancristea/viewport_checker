@@ -3,7 +3,7 @@
 A library who check if element from page is in viewport.
 
 ## Simple Usage
-```lang dart
+```dart
 new viewportChecker('.my-element-to-check', {
     'classToAdd': 'visible', // Class to add to the elements when they are visible,
     'classToAddForFullView': 'full-visible', // Class to add when an item is completely visible in the viewport
@@ -17,9 +17,8 @@ new viewportChecker('.my-element-to-check', {
 });
 ```
 
-
 ## Features and bugs
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: http://example.com/issues/replaceme
+[tracker]: https://github.com/ioancristea/viewport_checker/issues
